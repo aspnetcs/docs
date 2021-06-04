@@ -1,0 +1,8 @@
+1. 安装cpanm
+
+cpanm其实是一个可执行文件而已。将它下载到bin目录，然后添加执行权限就可以了。
+
+复制代码代码如下:
+
+# wget http:
+//xrl.us/cpanm -O /usr/bin/cpanm; chmod +x /usr/bin/cpanm
