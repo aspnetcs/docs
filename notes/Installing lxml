@@ -1,0 +1,3 @@
+Installing lxml
+https://lxml.de/installation.html
+sudo apt-get install python3-lxml
